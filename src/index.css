@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.textinput input{
+  background-color: rgb(103, 116, 128);
+  color:whitesmoke
+}
+.textinput input:focus{
+  outline: 2px solid blueviolet;
+  border: none;
+}
+
